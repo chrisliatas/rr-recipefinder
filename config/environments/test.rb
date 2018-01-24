@@ -1,7 +1,5 @@
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
-  ENV['FOOD2FORK_KEY']='44f2e6f50a9c5242ac6a287846b08d0a'
-  ENV['FOOD2FORK_SERVER_AND_PORT']='www.food2fork.com'
 
   # The test environment is used exclusively to run your application's
   # test suite. You never need to work with it otherwise. Remember that
